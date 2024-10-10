@@ -1,2 +1,2 @@
 # Data-analytics-bootcamp
-Repoitory for the  bootcamp where I will be storing all of my projects.
+This is the repository where I will be storing all of my bootcamp assignments. In order to find the designated assigment please search for the challengue of the corresponding module.
